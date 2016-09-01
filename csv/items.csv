@@ -1,192 +1,192 @@
-id,romaji,kanji,kana,chinese,english
-1,,12cm単装砲,,12cm单装炮,12cm Single Gun Mount
-2,,12.7cm連装砲,,12.7cm连装炮,12.7cm Twin Gun Mount
-3,,10cm連装高角砲,,10cm连装高角炮,10cm Twin High-angle Gun Mount
-4,,14cm単装砲,,14cm单装炮,14cm Single Gun Mount
-5,,15.5cm三連装砲,,15.5cm三连装炮,15.5cm Triple Gun Mount
-6,,20.3cm連装砲,,20.3cm连装炮,20.3cm Twin Gun Mount
-7,,35.6cm連装砲,,35.6cm连装炮,35.6cm Twin Gun Mount
-8,,41cm連装砲,,41cm连装炮,41cm Twin Gun Mount
-9,,46cm三連装砲,,46cm三连装炮,46cm Triple Gun Mount
-10,,12.7cm連装高角砲,,12.7cm连装高角炮,12.7cm Twin High-angle Gun Mount
-11,,15.2cm単装砲,,15.2cm单装炮,15.2cm Single Gun Mount
-12,,15.5cm三連装砲(副砲),,15.5cm三连装炮（副炮）,15.5cm Triple Secondary Gun Mount
-13,,61cm三連装魚雷,,61cm三连装鱼雷,61cm Triple Torpedo Mount
-14,,61cm四連装魚雷,,61cm四连装鱼雷,61cm Quadruple Torpedo Mount
-15,,61cm四連装(酸素)魚雷,,61cm四连装（酸素）鱼雷,61cm Quadruple (Oxygen) Torpedo Mount
-16,,九七式艦攻,,九七式舰攻,Type 97 Torpedo Bomber
-17,,天山,,天山,Tenzan
-18,,流星,,流星,Ryuusei
-19,,九六式艦戦,,九六式舰战,Type 96 Fighter
-20,,零式艦戦21型,,零式舰战21型,Type 0 Fighter Model 21
-21,,零式艦戦52型,,零式舰战52型,Type 0 Fighter Model 52
-22,,烈風,,烈风,Reppuu
-23,,九九式艦爆,,九九式舰爆,Type 99 Dive Bomber
-24,,彗星,,彗星,Suisei
-25,,零式水上偵察機,,零式水上侦察机,Type 0 Reconnaissance Seaplane
-26,,瑞雲,,瑞云,Zuiun
-27,,13号対空電探,,13号对空电探,Type 13 Air Radar
-28,,22号対水上電探,,22号对水上电探,Type 22 Surface Radar
-29,,33号対水上電探,,33号对水上电探,Type 33 Surface Radar
-30,,21号対空電探,,21号对空电探,Type 21 Air Radar
-31,,32号対水上電探,,32号对水上电探,Type 32 Surface Radar
-32,,14号対空電探,,14号对空电探,Type 14 Air Radar
-33,,改良型艦本式タービン,,改良型舰船涡轮机,Improved Kanhon Type Turbine
-34,,強化型艦本式缶,,强化型舰船锅炉,Enhanced Kanhon Type Boiler
-35,,三式弾,,三式弹,Type 3 Shell
-36,,九一式徹甲弾,,九一式穿甲弹,Type 91 Armor Piercing Shell
-37,,7.7mm機銃,,7.7mm机枪,7.7mm Machine Gun
-38,,12.7mm単装機銃,,12.7mm单装机枪,12.7mm Single Machine Gun Mount
-39,,25mm連装機銃,,25mm连装机枪,25mm Twin Autocannon Mount
-40,,25mm三連装機銃,,25mm三连装机枪,25mm Triple Autocannon Mount
-41,,甲標的 甲,,甲标的 甲,Kouhyouteki
-42,,応急修理要員,,应急修理要员,Emergency Repair Personnel
-43,,応急修理女神,,应急修理女神,Emergency Repair Goddess
-44,,九四式爆雷投射機,,九四式爆雷投射机,Type 94 Depth Charge Projector
-45,,三式爆雷投射機,,三式爆雷投射机,Type 3 Depth Charge Projector
-46,,九三式水中聴音機,,九三式水中听音机,Type 93 Passive Sonar
-47,,三式水中探信儀,,三式水中探信仪,Type 3 Active Sonar
-48,,12.7cm単装高角砲,,12.7cm单装高角炮,12.7cm Single High-angle Gun Mount
-49,,25mm単装機銃,,25mm单装机枪,25mm Single Autocannon Mount
-50,,20.3cm(3号)連装砲,,20.3cm（3号）连装炮,20.3cm (No.3) Twin Gun Mount
-51,,12cm30連装噴進砲,,12cm30连装喷进炮,12cm 30-tube Rocket Launcher
-52,,流星改,,流星改,Ryuusei Kai
-53,,烈風改,,烈风改,Reppuu Kai
-54,,彩雲,,彩云,Saiun
-55,,紫電改二,,紫电改二,Shiden Kai 2
-56,,震電改,,震电改,Shinden Kai
-57,,彗星一二型甲,,彗星一二型甲,Suisei Model 12A
-58,,61cm五連装(酸素)魚雷,,61cm五连装（酸素）鱼雷,61cm Quintuple (Oxygen) Torpedo Mount
-59,,零式水上観測機,,零式水上观测机,Type 0 Observation Seaplane
-60,,零式艦戦62型(爆戦),,零式舰战62型（爆战）,Type 0 Fighter Model 62 (Fighter-bomber)
-61,,二式艦上偵察機,,二式舰上侦察机,Type 2 Reconnaissance Aircraft
-62,,試製晴嵐,,试制晴岚,Prototype Seiran
-63,,12.7cm連装砲B型改二,,12.7cm连装炮B型改二,12.7cm Twin Gun Mount Model B Kai 2
-64,,Ju87C改,,Ju87C改,Ju 87C Kai
-65,,15.2cm連装砲,,15.2cm连装炮,15.2cm Twin Gun Mount
-66,,8cm高角砲,,8cm高角炮,8cm High-angle Gun
-67,,53cm艦首(酸素)魚雷,,53cm舰首（酸素）鱼雷,53cm Bow (Oxygen) Torpedo Mount
-68,,大発動艇,,大发登陆艇,Daihatsu Landing Craft
-69,,カ号観測機,,KA号观测机,Ka Type Observation Autogyro
-70,,三式指揮連絡機(対潜),,三式指挥联络机（对潜）,Type 3 Command Liaison Aircraft (ASW)
-71,,10cm連装高角砲(砲架),,10cm连装高角炮（炮架）,10cm Twin High-angle Gun Mount (Carriage)
-72,,増設バルジ(中型艦),,增设装甲板（中型舰）,Anti-torpedo Bulge (Medium)
-73,,増設バルジ(大型艦),,增设装甲板（大型舰）,Anti-torpedo Bulge (Large)
-74,,探照灯,,探照灯,Searchlight
-75,,ドラム缶(輸送用),,鼓筒（运输用）,Drum Canister (Transport Use)
-76,,38cm連装砲,,38cm连装炮,38cm Twin Gun Mount
-77,,15cm連装副砲,,15cm连装副炮,15cm Twin Secondary Gun Mount
-78,,12.7cm単装砲,,12.7cm单装炮,12.7cm Single Gun Mount
-79,,瑞雲(六三四空),,瑞云（六三四空）,Zuiun (634 Air Group)
-80,,瑞雲12型,,瑞云12型,Zuiun Model 12
-81,,瑞雲12型(六三四空),,瑞云12型（六三四空）,Zuiun Model 12 (634 Air Group)
-82,,九七式艦攻(九三一空),,九七式舰攻（九三一空）,Type 97 Torpedo Bomber (931 Air Group)
-83,,天山(九三一空),,天山（九三一空）,Tenzan (931 Air Group)
-84,,2cm 四連装FlaK 38,,2cm四连装FlaK 38,2cm Flakvierling 38
-85,,3.7cm FlaK M42,,3.7cm FlaK M42,3.7cm FlaK M42
-86,,艦艇修理施設,,舰艇修理设施,Ship Repair Facility
-87,,新型高温高圧缶,,新型高温高压锅炉,New Model High Temperature High Pressure Boiler
-88,,22号対水上電探改四,,22号对水上电探改四,Type 22 Surface Radar Kai 4
-89,,21号対空電探改,,21号对空电探改,Type 21 Air Radar Kai
-90,,20.3cm(2号)連装砲,,20.3cm（2号）连装炮,20.3cm (No.2) Twin Gun Mount
-91,,12.7cm連装高角砲(後期型),,12.7cm连装高角炮（后期型）,12.7cm Twin High-angle Gun Mount (Late Model)
-92,,毘式40mm連装機銃,,毗式40mm连装机枪,Bi Type 40mm Twin Autocannon Mount
-93,,九七式艦攻(友永隊),,九七式舰攻（友永队）,Type 97 Torpedo Bomber (Tomonaga Squadron)
-94,,天山一二型(友永隊),,天山一二型（友永队）,Tenzan Model 12 (Tomonaga Squadron)
-95,,潜水艦53cm艦首魚雷(8門),,潜艇53cm舰首鱼雷（8门）,Submarine 53cm Bow Torpedo Mount (8 tubes)
-96,,零式艦戦21型(熟練),,零式舰战21型（熟练）,Type 0 Fighter Model 21 (Skilled)
-97,,九九式艦爆(熟練),,九九式舰爆（熟练）,Type 99 Dive Bomber (Skilled)
-98,,九七式艦攻(熟練),,九七式舰攻（熟练）,Type 97 Torpedo Bomber (Skilled)
-99,,九九式艦爆(江草隊),,九九式舰爆（江草队）,Type 99 Dive Bomber (Egusa Squadron)
-100,,彗星(江草隊),,彗星（江草队）,Suisei (Egusa Squadron)
-101,,照明弾,,照明弹,Star Shell
-102,,九八式水上偵察機(夜偵),,九八式水上侦察机（夜侦）,Type 98 Reconnaissance Seaplane (Night Recon)
-103,,試製35.6cm三連装砲,,试制35.6cm三连装炮,Prototype 35.6cm Triple Gun Mount
-104,,35.6cm連装砲(ダズル迷彩),,35.6cm连装炮（炫光迷彩）,35.6cm Twin Gun Mount (Dazzle Camouflage)
-105,,試製41cm三連装砲,,试制41cm三连装炮,Prototype 41cm Triple Gun Mount
-106,,13号対空電探改,,13号对空电探改,Type 13 Air Radar Kai
-107,,艦隊司令部施設,,舰队司令部设施,Fleet Command Facility
-108,,熟練艦載機整備員,,熟练舰载机整备员,Skilled Carrier-based Aircraft Maintenance Personnel
-109,,零戦52型丙(六〇一空),,零式舰战52型丙（六〇一空）,Zero Fighter Model 52C (601 Air Group)
-110,,烈風(六〇一空),,烈风（六〇一空）,Reppuu (601 Air Group)
-111,,彗星(六〇一空),,彗星（六〇一空）,Suisei (601 Air Group)
-112,,天山(六〇一空),,天山（六〇一空）,Tenzan (601 Air Group)
-113,,流星(六〇一空),,流星（六〇一空）,Ryuusei (601 Air Group)
-114,,38cm連装砲改,,38cm连装炮改,38cm Twin Gun Mount Kai
-115,,Ar196改,,Ar196改,Ar196 Kai
-116,,一式徹甲弾,,一式穿甲弹,Type 1 Armor Piercing Shell
-117,,試製46cm連装砲,,试制46cm连装炮,Prototype 46cm Twin Gun Mount
-118,,紫雲,,紫云,Shiun
-119,,14cm連装砲,,14cm连装炮,14cm Twin Gun Mount
-120,,91式高射装置,,91式高射装置,Type 91 Anti-Aircraft Fire Director
-121,,94式高射装置,,94式高射装置,Type 94 Anti-Aircraft Fire Director
-122,,10cm連装高角砲+高射装置,,10cm连装高角炮+94式高射装置,10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director
-123,,SKC34 20.3cm連装砲,,SKC34 20.3cm连装炮,SKC34 20.3cm Twin Gun Mount
-124,,FuMO25 レーダー,,FuMO25雷达,FuMO25 Radar
-125,,61cm三連装(酸素)魚雷,,61cm三连装（酸素）鱼雷,61cm Triple (Oxygen) Torpedo Mount
-126,,WG42 (Wurfgerät 42),,WG42（Wurfgerät 42）,WG42 (Wurfgerät 42)
-127,,試製FaT仕様九五式酸素魚雷改,,试制FaT规格九五式酸素鱼雷改,Prototype FaT Type 95 Oxygen Torpedo Kai
-128,,試製51cm連装砲,,试制51cm连装炮,Prototype 51cm Twin Gun Mount
-129,,熟練見張員,,熟练瞭望员,Skilled Lookouts
-130,,12.7cm高角砲+高射装置,,12.7cm连装高角炮+94式高射装置,12.7cm High-angle Gun + Anti-Aircraft Fire Director
-131,,25mm三連装機銃 集中配備,,25mm三连装机枪 集中配备,25mm Triple Autocannon Mount (Concentrated Deployment)
-132,,零式水中聴音機,,零式水中听音机,Type 0 Passive Sonar
-133,,381mm/50 三連装砲,,381mm/50三连装炮,381mm/50 Triple Gun Mount
-134,,OTO 152mm三連装速射砲,,OTO 152mm三连装速射炮,OTO 152mm Triple Rapid Fire Gun Mount
-135,,90mm単装高角砲,,90mm单装高角炮,90mm Single High-angle Gun Mount
-136,,プリエーゼ式水中防御隔壁,,Pugliese水下防御舱壁,Pugliese Underwater Protection Bulkhead
-137,,381mm/50 三連装砲改,,381mm/50三连装炮改,381mm/50 Triple Gun Mount Kai
-138,,二式大艇,,二式大艇,Type 2 Large Flying Boat
-139,,15.2cm連装砲改,,15.2cm连装炮改,15.2cm Twin Gun Mount Kai
-140,,96式150cm探照灯,,96式150cm探照灯,Type 96 150cm Searchlight
-141,,32号対水上電探改,,32号对水上电探改,Type 32 Surface Radar Kai
-142,,15m二重測距儀+21号電探改二,,15m二重测距仪+21号电探改二,15m Duplex Rangefinder + Type 21 Radar Kai Ni
-143,,九七式艦攻(村田隊),,九七式舰攻（村田队）,Type 97 Torpedo Bomber (Murata Squadron)
-144,,天山一二型(村田隊),,天山一二型（村田队）,Tenzan Model 12 (Murata Squadron)
-145,,戦闘糧食,,战斗粮食,Combat Ration
-146,,洋上補給,,洋上补给,Underway Replenishment
-147,,120mm連装砲,,120mm连装炮,120mm Twin Gun Mount
-148,,試製南山,,试制南山,Prototype Nanzan
-149,,四式水中聴音機,,四式水中听音机,Type 4 Passive Sonar
-150,,秋刀魚の缶詰,,秋刀鱼罐头,Canned Mackerel
-151,,試製景雲(艦偵型),,试制景云（舰侦型）,Prototype Keiun (Carrier-based Reconnaissance Model)
-152,,零式艦戦52型(熟練),,零式舰战52型（熟练）,Type 0 Fighter Model 52 (Skilled)
-153,,零戦52型丙(付岩井小隊),,零式舰战52型丙（附岩井小队）,Zero Fighter Model 52C (w/ Iwai Flight)
-154,,零戦62型(爆戦/岩井隊),,零式舰战62型（爆战/岩井队）,Zero Fighter Model 62 (Fighter-bomber / Iwai Squadron)
-155,,零戦21型(付岩本小隊),,零式舰战21型（附岩本小队）,Zero Fighter Model 21 (w/ Iwamoto Flight)
-156,,零戦52型甲(付岩本小隊),,零式舰战52型甲（附岩本小队）,Zero Fighter Model 52A (w/ Iwamoto Flight)
-157,,零式艦戦53型(岩本隊),,零式舰战53型（岩本队）,Type 0 Fighter Model 53 (Iwamoto Squadron)
-158,,Bf109T改,,Bf109T改,Bf 109T Kai
-159,,Fw190T改,,Fw190T改,Fw 190T Kai
-160,,10.5cm連装砲,,10.5cm连装炮,10.5cm Twin Gun Mount
-161,,16inch三連装砲 Mk.7,,16inch三连装炮Mk.7,16inch Triple Gun Mount Mk.7
-162,,203mm/53 連装砲,,203mm/53 连装炮,203mm/53 Twin Gun Mount
-163,,Ro.43水偵,,Ro.43水侦,Ro.43 Reconnaissance Seaplane
-164,,Ro.44水上戦闘機,,Ro.44水上战斗机,Ro.44 Seaplane Fighter
-165,,二式水戦改,,二式水战改,Type 2 Seaplane Fighter Kai
-166,,大発動艇(八九式中戦車&陸戦隊),,大发登陆艇（八九式中战车&陆战队）,Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force)
-167,,特二式内火艇,,特二式内火艇,Special Type 2 Amphibious Tank
-168,,九六式陸攻,,九六式陆攻,Type 96 Land-based Attack Aircraft
-169,,一式陸攻,,一式陆攻,Type 1 Land-based Attack Aircraft
-170,,一式陸攻(野中隊),,一式陆攻（野中队）,Type 1 Land-based Attack Aircraft (Nonaka Squadron)
-171,,OS2U,,OS2U,OS2U
-172,,5inch連装砲 Mk.28 mod.2,,5inch连装炮 Mk.28 mod.2,5inch Twin Gun Mount Mk.28 mod.2
-173,,Bofors 40mm四連装機関砲,,Bofors 40mm四连装机关炮,Bofors 40mm Quadruple Autocannon Mount
-174,,53cm連装魚雷,,53cm连装鱼雷,53cm Twin Torpedo Mount
-175,,雷電,,雷电,Raiden
-176,,三式戦 飛燕,,三式战 飞燕,Type 3 Fighter Hien
-177,,三式戦 飛燕(飛行第244戦隊),,三式战 飞燕（飞行第244战队）,Type 3 Fighter Hien (244th Air Combat Group)
-178,,PBY-5A Catalina,,PBY-5A Catalina,PBY-5A Catalina
-179,,試製61cm六連装(酸素)魚雷,,试制61cm六连装（酸素）鱼雷,Prototype 61cm Sextuple (Oxygen) Torpedo Mount
-180,,一式陸攻 二二型甲,,一式陆攻 二二型甲,Type 1 Land-based Attack Aircraft Model 22A
-181,,零式艦戦32型,,零式舰战32型,Type 0 Fighter Model 32
-182,,零式艦戦32型(熟練),,零式舰战32型（熟练）,Type 0 Fighter Model 32 (Skilled)
-183,,16inch三連装砲 Mk.7+GFCS,,16inch三连装炮Mk.7+GFCS,16inch Triple Gun Mount Mk.7 + GFCS
-184,,Re.2001 OR改,,Re.2001 OR改,Re.2001 OR Kai
-185,,三式戦 飛燕一型丁,,三式战 飞燕一型丁,Type 3 Fighter Hien Model 1D
-186,,一式陸攻 三四型,,一式陆攻 三四型,Type 1 Land-based Attack Aircraft Model 34
-187,,銀河,,银河,Ginga
-188,,Re.2001 G改,,Re.2001 G改,Re.2001 G Kai
-189,,Re.2005 改,,Re.2005 改,Re.2005 Kai
-190,,38.1cm Mk.I連装砲,,38.1cm Mk.I 连装炮,38.1cm Mk.I Twin Gun Mount
-191,,QF 2ポンド8連装ポンポン砲,,QF 2镑8连装砰砰炮,QF 2-pounder Octuple Pom-pom Gun Mount
+id,romaji,kanji,kana,chinese,english,type
+1,,12cm単装砲,,12cm单装炮,12cm Single Gun Mount,Small Caliber Main Gun
+2,,12.7cm連装砲,,12.7cm连装炮,12.7cm Twin Gun Mount,Small Caliber Main Gun
+3,,10cm連装高角砲,,10cm连装高角炮,10cm Twin High-angle Gun Mount,Small Caliber Main Gun
+4,,14cm単装砲,,14cm单装炮,14cm Single Gun Mount,Medium Caliber Main Gun
+5,,15.5cm三連装砲,,15.5cm三连装炮,15.5cm Triple Gun Mount,Medium Caliber Main Gun
+6,,20.3cm連装砲,,20.3cm连装炮,20.3cm Twin Gun Mount,Medium Caliber Main Gun
+7,,35.6cm連装砲,,35.6cm连装炮,35.6cm Twin Gun Mount,Large Caliber Main Gun
+8,,41cm連装砲,,41cm连装炮,41cm Twin Gun Mount,Large Caliber Main Gun
+9,,46cm三連装砲,,46cm三连装炮,46cm Triple Gun Mount,Large Caliber Main Gun
+10,,12.7cm連装高角砲,,12.7cm连装高角炮,12.7cm Twin High-angle Gun Mount,Secondary Gun
+11,,15.2cm単装砲,,15.2cm单装炮,15.2cm Single Gun Mount,Secondary Gun
+12,,15.5cm三連装砲(副砲),,15.5cm三连装炮（副炮）,15.5cm Triple Secondary Gun Mount,Secondary Gun
+13,,61cm三連装魚雷,,61cm三连装鱼雷,61cm Triple Torpedo Mount,Torpedo
+14,,61cm四連装魚雷,,61cm四连装鱼雷,61cm Quadruple Torpedo Mount,Torpedo
+15,,61cm四連装(酸素)魚雷,,61cm四连装（酸素）鱼雷,61cm Quadruple (Oxygen) Torpedo Mount,Torpedo
+16,,九七式艦攻,,九七式舰攻,Type 97 Torpedo Bomber,Carrier-based Torpedo Bomber
+17,,天山,,天山,Tenzan,Carrier-based Torpedo Bomber
+18,,流星,,流星,Ryuusei,Carrier-based Torpedo Bomber
+19,,九六式艦戦,,九六式舰战,Type 96 Fighter,Carrier-based Fighter Aircraft
+20,,零式艦戦21型,,零式舰战21型,Type 0 Fighter Model 21,Carrier-based Fighter Aircraft
+21,,零式艦戦52型,,零式舰战52型,Type 0 Fighter Model 52,Carrier-based Fighter Aircraft
+22,,烈風,,烈风,Reppuu,Carrier-based Fighter Aircraft
+23,,九九式艦爆,,九九式舰爆,Type 99 Dive Bomber,Carrier-based Dive Bomber
+24,,彗星,,彗星,Suisei,Carrier-based Dive Bomber
+25,,零式水上偵察機,,零式水上侦察机,Type 0 Reconnaissance Seaplane,Reconnaissance Seaplane
+26,,瑞雲,,瑞云,Zuiun,Seaplane Bomber
+27,,13号対空電探,,13号对空电探,Type 13 Air Radar,Small Radar
+28,,22号対水上電探,,22号对水上电探,Type 22 Surface Radar,Small Radar
+29,,33号対水上電探,,33号对水上电探,Type 33 Surface Radar,Small Radar
+30,,21号対空電探,,21号对空电探,Type 21 Air Radar,Large Radar
+31,,32号対水上電探,,32号对水上电探,Type 32 Surface Radar,Large Radar
+32,,14号対空電探,,14号对空电探,Type 14 Air Radar,Large Radar
+33,,改良型艦本式タービン,,改良型舰船涡轮机,Improved Kanhon Type Turbine,Engine Improvement
+34,,強化型艦本式缶,,强化型舰船锅炉,Enhanced Kanhon Type Boiler,Engine Improvement
+35,,三式弾,,三式弹,Type 3 Shell,Anti-Aircraft Shell
+36,,九一式徹甲弾,,九一式穿甲弹,Type 91 Armor Piercing Shell,Armor Piercing Shell
+37,,7.7mm機銃,,7.7mm机枪,7.7mm Machine Gun,Anti-Aircraft Gun
+38,,12.7mm単装機銃,,12.7mm单装机枪,12.7mm Single Machine Gun Mount,Anti-Aircraft Gun
+39,,25mm連装機銃,,25mm连装机枪,25mm Twin Autocannon Mount,Anti-Aircraft Gun
+40,,25mm三連装機銃,,25mm三连装机枪,25mm Triple Autocannon Mount,Anti-Aircraft Gun
+41,,甲標的 甲,,甲标的 甲,Kouhyouteki,Midget Submarine
+42,,応急修理要員,,应急修理要员,Emergency Repair Personnel,Damage Control Personnel
+43,,応急修理女神,,应急修理女神,Emergency Repair Goddess,Damage Control Personnel
+44,,九四式爆雷投射機,,九四式爆雷投射机,Type 94 Depth Charge Projector,Depth Charge
+45,,三式爆雷投射機,,三式爆雷投射机,Type 3 Depth Charge Projector,Depth Charge
+46,,九三式水中聴音機,,九三式水中听音机,Type 93 Passive Sonar,Sonar
+47,,三式水中探信儀,,三式水中探信仪,Type 3 Active Sonar,Sonar
+48,,12.7cm単装高角砲,,12.7cm单装高角炮,12.7cm Single High-angle Gun Mount,Small Caliber Main Gun
+49,,25mm単装機銃,,25mm单装机枪,25mm Single Autocannon Mount,Anti-Aircraft Gun
+50,,20.3cm(3号)連装砲,,20.3cm（3号）连装炮,20.3cm (No.3) Twin Gun Mount,Medium Caliber Main Gun
+51,,12cm30連装噴進砲,,12cm30连装喷进炮,12cm 30-tube Rocket Launcher,Anti-Aircraft Gun
+52,,流星改,,流星改,Ryuusei Kai,Carrier-based Torpedo Bomber
+53,,烈風改,,烈风改,Reppuu Kai,Carrier-based Fighter Aircraft
+54,,彩雲,,彩云,Saiun,Carrier-based Reconnaissance Aircraft
+55,,紫電改二,,紫电改二,Shiden Kai 2,Carrier-based Fighter Aircraft
+56,,震電改,,震电改,Shinden Kai,Carrier-based Fighter Aircraft
+57,,彗星一二型甲,,彗星一二型甲,Suisei Model 12A,Carrier-based Dive Bomber
+58,,61cm五連装(酸素)魚雷,,61cm五连装（酸素）鱼雷,61cm Quintuple (Oxygen) Torpedo Mount,Torpedo
+59,,零式水上観測機,,零式水上观测机,Type 0 Observation Seaplane,Reconnaissance Seaplane
+60,,零式艦戦62型(爆戦),,零式舰战62型（爆战）,Type 0 Fighter Model 62 (Fighter-bomber),Carrier-based Dive Bomber
+61,,二式艦上偵察機,,二式舰上侦察机,Type 2 Reconnaissance Aircraft,Carrier-based Reconnaissance Aircraft
+62,,試製晴嵐,,试制晴岚,Prototype Seiran,Seaplane Bomber
+63,,12.7cm連装砲B型改二,,12.7cm连装炮B型改二,12.7cm Twin Gun Mount Model B Kai 2,Small Caliber Main Gun
+64,,Ju87C改,,Ju87C改,Ju 87C Kai,Carrier-based Dive Bomber
+65,,15.2cm連装砲,,15.2cm连装炮,15.2cm Twin Gun Mount,Medium Caliber Main Gun
+66,,8cm高角砲,,8cm高角炮,8cm High-angle Gun,Secondary Gun
+67,,53cm艦首(酸素)魚雷,,53cm舰首（酸素）鱼雷,53cm Bow (Oxygen) Torpedo Mount,Torpedo
+68,,大発動艇,,大发登陆艇,Daihatsu Landing Craft,Landing Craft
+69,,カ号観測機,,KA号观测机,Ka Type Observation Autogyro,Autogyro
+70,,三式指揮連絡機(対潜),,三式指挥联络机（对潜）,Type 3 Command Liaison Aircraft (ASW),Anti-submarine Patrol Aircraft
+71,,10cm連装高角砲(砲架),,10cm连装高角炮（炮架）,10cm Twin High-angle Gun Mount (Carriage),Secondary Gun
+72,,増設バルジ(中型艦),,增设装甲板（中型舰）,Anti-torpedo Bulge (Medium),Extra Armor (Medium)
+73,,増設バルジ(大型艦),,增设装甲板（大型舰）,Anti-torpedo Bulge (Large),Extra Armor (Large)
+74,,探照灯,,探照灯,Searchlight,Searchlight
+75,,ドラム缶(輸送用),,鼓筒（运输用）,Drum Canister (Transport Use),Supply Transport Container
+76,,38cm連装砲,,38cm连装炮,38cm Twin Gun Mount,Large Caliber Main Gun
+77,,15cm連装副砲,,15cm连装副炮,15cm Twin Secondary Gun Mount,Secondary Gun
+78,,12.7cm単装砲,,12.7cm单装炮,12.7cm Single Gun Mount,Small Caliber Main Gun
+79,,瑞雲(六三四空),,瑞云（六三四空）,Zuiun (634 Air Group),Seaplane Bomber
+80,,瑞雲12型,,瑞云12型,Zuiun Model 12,Seaplane Bomber
+81,,瑞雲12型(六三四空),,瑞云12型（六三四空）,Zuiun Model 12 (634 Air Group),Seaplane Bomber
+82,,九七式艦攻(九三一空),,九七式舰攻（九三一空）,Type 97 Torpedo Bomber (931 Air Group),Carrier-based Torpedo Bomber
+83,,天山(九三一空),,天山（九三一空）,Tenzan (931 Air Group),Carrier-based Torpedo Bomber
+84,,2cm 四連装FlaK 38,,2cm四连装FlaK 38,2cm Flakvierling 38,Anti-Aircraft Gun
+85,,3.7cm FlaK M42,,3.7cm FlaK M42,3.7cm FlaK M42,Anti-Aircraft Gun
+86,,艦艇修理施設,,舰艇修理设施,Ship Repair Facility,Ship Repair Facility
+87,,新型高温高圧缶,,新型高温高压锅炉,New Model High Temperature High Pressure Boiler,Engine Improvement
+88,,22号対水上電探改四,,22号对水上电探改四,Type 22 Surface Radar Kai 4,Small Radar
+89,,21号対空電探改,,21号对空电探改,Type 21 Air Radar Kai,Large Radar
+90,,20.3cm(2号)連装砲,,20.3cm（2号）连装炮,20.3cm (No.2) Twin Gun Mount,Medium Caliber Main Gun
+91,,12.7cm連装高角砲(後期型),,12.7cm连装高角炮（后期型）,12.7cm Twin High-angle Gun Mount (Late Model),Small Caliber Main Gun
+92,,毘式40mm連装機銃,,毗式40mm连装机枪,Bi Type 40mm Twin Autocannon Mount,Anti-Aircraft Gun
+93,,九七式艦攻(友永隊),,九七式舰攻（友永队）,Type 97 Torpedo Bomber (Tomonaga Squadron),Carrier-based Torpedo Bomber
+94,,天山一二型(友永隊),,天山一二型（友永队）,Tenzan Model 12 (Tomonaga Squadron),Carrier-based Torpedo Bomber
+95,,潜水艦53cm艦首魚雷(8門),,潜艇53cm舰首鱼雷（8门）,Submarine 53cm Bow Torpedo Mount (8 tubes),Submarine Torpedo
+96,,零式艦戦21型(熟練),,零式舰战21型（熟练）,Type 0 Fighter Model 21 (Skilled),Carrier-based Fighter Aircraft
+97,,九九式艦爆(熟練),,九九式舰爆（熟练）,Type 99 Dive Bomber (Skilled),Carrier-based Dive Bomber
+98,,九七式艦攻(熟練),,九七式舰攻（熟练）,Type 97 Torpedo Bomber (Skilled),Carrier-based Torpedo Bomber
+99,,九九式艦爆(江草隊),,九九式舰爆（江草队）,Type 99 Dive Bomber (Egusa Squadron),Carrier-based Dive Bomber
+100,,彗星(江草隊),,彗星（江草队）,Suisei (Egusa Squadron),Carrier-based Dive Bomber
+101,,照明弾,,照明弹,Star Shell,Star Shell
+102,,九八式水上偵察機(夜偵),,九八式水上侦察机（夜侦）,Type 98 Reconnaissance Seaplane (Night Recon),Reconnaissance Seaplane
+103,,試製35.6cm三連装砲,,试制35.6cm三连装炮,Prototype 35.6cm Triple Gun Mount,Large Caliber Main Gun
+104,,35.6cm連装砲(ダズル迷彩),,35.6cm连装炮（炫光迷彩）,35.6cm Twin Gun Mount (Dazzle Camouflage),Large Caliber Main Gun
+105,,試製41cm三連装砲,,试制41cm三连装炮,Prototype 41cm Triple Gun Mount,Large Caliber Main Gun
+106,,13号対空電探改,,13号对空电探改,Type 13 Air Radar Kai,Small Radar
+107,,艦隊司令部施設,,舰队司令部设施,Fleet Command Facility,Command Facility
+108,,熟練艦載機整備員,,熟练舰载机整备员,Skilled Carrier-based Aircraft Maintenance Personnel,Aviation Personnel
+109,,零戦52型丙(六〇一空),,零式舰战52型丙（六〇一空）,Zero Fighter Model 52C (601 Air Group),Carrier-based Fighter Aircraft
+110,,烈風(六〇一空),,烈风（六〇一空）,Reppuu (601 Air Group),Carrier-based Fighter Aircraft
+111,,彗星(六〇一空),,彗星（六〇一空）,Suisei (601 Air Group),Carrier-based Dive Bomber
+112,,天山(六〇一空),,天山（六〇一空）,Tenzan (601 Air Group),Carrier-based Torpedo Bomber
+113,,流星(六〇一空),,流星（六〇一空）,Ryuusei (601 Air Group),Carrier-based Torpedo Bomber
+114,,38cm連装砲改,,38cm连装炮改,38cm Twin Gun Mount Kai,Large Caliber Main Gun
+115,,Ar196改,,Ar196改,Ar196 Kai,Reconnaissance Seaplane
+116,,一式徹甲弾,,一式穿甲弹,Type 1 Armor Piercing Shell,Armor Piercing Shell
+117,,試製46cm連装砲,,试制46cm连装炮,Prototype 46cm Twin Gun Mount,Large Caliber Main Gun
+118,,紫雲,,紫云,Shiun,Reconnaissance Seaplane
+119,,14cm連装砲,,14cm连装炮,14cm Twin Gun Mount,Medium Caliber Main Gun
+120,,91式高射装置,,91式高射装置,Type 91 Anti-Aircraft Fire Director,Anti-Aircraft Fire Director
+121,,94式高射装置,,94式高射装置,Type 94 Anti-Aircraft Fire Director,Anti-Aircraft Fire Director
+122,,10cm連装高角砲+高射装置,,10cm连装高角炮+94式高射装置,10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director,Small Caliber Main Gun
+123,,SKC34 20.3cm連装砲,,SKC34 20.3cm连装炮,SKC34 20.3cm Twin Gun Mount,Medium Caliber Main Gun
+124,,FuMO25 レーダー,,FuMO25雷达,FuMO25 Radar,Large Radar
+125,,61cm三連装(酸素)魚雷,,61cm三连装（酸素）鱼雷,61cm Triple (Oxygen) Torpedo Mount,Torpedo
+126,,WG42 (Wurfgerät 42),,WG42（Wurfgerät 42）,WG42 (Wurfgerät 42),Anti-Ground Equipment
+127,,試製FaT仕様九五式酸素魚雷改,,试制FaT规格九五式酸素鱼雷改,Prototype FaT Type 95 Oxygen Torpedo Kai,Submarine Torpedo
+128,,試製51cm連装砲,,试制51cm连装炮,Prototype 51cm Twin Gun Mount,Large Caliber Main Gun (II)
+129,,熟練見張員,,熟练瞭望员,Skilled Lookouts,Surface Ship Personnel
+130,,12.7cm高角砲+高射装置,,12.7cm连装高角炮+94式高射装置,12.7cm High-angle Gun + Anti-Aircraft Fire Director,Secondary Gun
+131,,25mm三連装機銃 集中配備,,25mm三连装机枪 集中配备,25mm Triple Autocannon Mount (Concentrated Deployment),Anti-Aircraft Gun
+132,,零式水中聴音機,,零式水中听音机,Type 0 Passive Sonar,Large Sonar
+133,,381mm/50 三連装砲,,381mm/50三连装炮,381mm/50 Triple Gun Mount,Large Caliber Main Gun
+134,,OTO 152mm三連装速射砲,,OTO 152mm三连装速射炮,OTO 152mm Triple Rapid Fire Gun Mount,Secondary Gun
+135,,90mm単装高角砲,,90mm单装高角炮,90mm Single High-angle Gun Mount,Secondary Gun
+136,,プリエーゼ式水中防御隔壁,,Pugliese水下防御舱壁,Pugliese Underwater Protection Bulkhead,Extra Armor (Large)
+137,,381mm/50 三連装砲改,,381mm/50三连装炮改,381mm/50 Triple Gun Mount Kai,Large Caliber Main Gun
+138,,二式大艇,,二式大艇,Type 2 Large Flying Boat,Large Flying Boat
+139,,15.2cm連装砲改,,15.2cm连装炮改,15.2cm Twin Gun Mount Kai,Medium Caliber Main Gun
+140,,96式150cm探照灯,,96式150cm探照灯,Type 96 150cm Searchlight,Large Searchlight
+141,,32号対水上電探改,,32号对水上电探改,Type 32 Surface Radar Kai,Large Radar
+142,,15m二重測距儀+21号電探改二,,15m二重测距仪+21号电探改二,15m Duplex Rangefinder + Type 21 Radar Kai Ni,Large Radar (II)
+143,,九七式艦攻(村田隊),,九七式舰攻（村田队）,Type 97 Torpedo Bomber (Murata Squadron),Carrier-based Torpedo Bomber
+144,,天山一二型(村田隊),,天山一二型（村田队）,Tenzan Model 12 (Murata Squadron),Carrier-based Torpedo Bomber
+145,,戦闘糧食,,战斗粮食,Combat Ration,Combat Ration
+146,,洋上補給,,洋上补给,Underway Replenishment,Supplies
+147,,120mm連装砲,,120mm连装炮,120mm Twin Gun Mount,Small Caliber Main Gun
+148,,試製南山,,试制南山,Prototype Nanzan,Carrier-based Dive Bomber
+149,,四式水中聴音機,,四式水中听音机,Type 4 Passive Sonar,Sonar
+150,,秋刀魚の缶詰,,秋刀鱼罐头,Canned Mackerel,Combat Ration
+151,,試製景雲(艦偵型),,试制景云（舰侦型）,Prototype Keiun (Carrier-based Reconnaissance Model),Carrier-based Reconnaissance Aircraft (II)
+152,,零式艦戦52型(熟練),,零式舰战52型（熟练）,Type 0 Fighter Model 52 (Skilled),Carrier-based Fighter Aircraft
+153,,零戦52型丙(付岩井小隊),,零式舰战52型丙（附岩井小队）,Zero Fighter Model 52C (w/ Iwai Flight),Carrier-based Fighter Aircraft
+154,,零戦62型(爆戦/岩井隊),,零式舰战62型（爆战/岩井队）,Zero Fighter Model 62 (Fighter-bomber / Iwai Squadron),Carrier-based Dive Bomber
+155,,零戦21型(付岩本小隊),,零式舰战21型（附岩本小队）,Zero Fighter Model 21 (w/ Iwamoto Flight),Carrier-based Fighter Aircraft
+156,,零戦52型甲(付岩本小隊),,零式舰战52型甲（附岩本小队）,Zero Fighter Model 52A (w/ Iwamoto Flight),Carrier-based Fighter Aircraft
+157,,零式艦戦53型(岩本隊),,零式舰战53型（岩本队）,Type 0 Fighter Model 53 (Iwamoto Squadron),Carrier-based Fighter Aircraft
+158,,Bf109T改,,Bf109T改,Bf 109T Kai,Carrier-based Fighter Aircraft
+159,,Fw190T改,,Fw190T改,Fw 190T Kai,Carrier-based Fighter Aircraft
+160,,10.5cm連装砲,,10.5cm连装炮,10.5cm Twin Gun Mount,Secondary Gun
+161,,16inch三連装砲 Mk.7,,16inch三连装炮Mk.7,16inch Triple Gun Mount Mk.7,Large Caliber Main Gun
+162,,203mm/53 連装砲,,203mm/53 连装炮,203mm/53 Twin Gun Mount,Medium Caliber Main Gun
+163,,Ro.43水偵,,Ro.43水侦,Ro.43 Reconnaissance Seaplane,Reconnaissance Seaplane
+164,,Ro.44水上戦闘機,,Ro.44水上战斗机,Ro.44 Seaplane Fighter,Seaplane Fighter
+165,,二式水戦改,,二式水战改,Type 2 Seaplane Fighter Kai,Seaplane Fighter
+166,,大発動艇(八九式中戦車&陸戦隊),,大发登陆艇（八九式中战车&陆战队）,Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force),Landing Craft
+167,,特二式内火艇,,特二式内火艇,Special Type 2 Amphibious Tank,Special Amphibious Tank
+168,,九六式陸攻,,九六式陆攻,Type 96 Land-based Attack Aircraft,Land-based Attack Aircraft
+169,,一式陸攻,,一式陆攻,Type 1 Land-based Attack Aircraft,Land-based Attack Aircraft
+170,,一式陸攻(野中隊),,一式陆攻（野中队）,Type 1 Land-based Attack Aircraft (Nonaka Squadron),Land-based Attack Aircraft
+171,,OS2U,,OS2U,OS2U,Reconnaissance Seaplane
+172,,5inch連装砲 Mk.28 mod.2,,5inch连装炮 Mk.28 mod.2,5inch Twin Gun Mount Mk.28 mod.2,Secondary Gun
+173,,Bofors 40mm四連装機関砲,,Bofors 40mm四连装机关炮,Bofors 40mm Quadruple Autocannon Mount,Anti-Aircraft Gun
+174,,53cm連装魚雷,,53cm连装鱼雷,53cm Twin Torpedo Mount,Torpedo
+175,,雷電,,雷电,Raiden,Interceptor Fighter
+176,,三式戦 飛燕,,三式战 飞燕,Type 3 Fighter Hien,Interceptor Fighter
+177,,三式戦 飛燕(飛行第244戦隊),,三式战 飞燕（飞行第244战队）,Type 3 Fighter Hien (244th Air Combat Group),Interceptor Fighter
+178,,PBY-5A Catalina,,PBY-5A Catalina,PBY-5A Catalina,Large Flying Boat
+179,,試製61cm六連装(酸素)魚雷,,试制61cm六连装（酸素）鱼雷,Prototype 61cm Sextuple (Oxygen) Torpedo Mount,Torpedo
+180,,一式陸攻 二二型甲,,一式陆攻 二二型甲,Type 1 Land-based Attack Aircraft Model 22A,Land-based Attack Aircraft
+181,,零式艦戦32型,,零式舰战32型,Type 0 Fighter Model 32,Carrier-based Fighter Aircraft
+182,,零式艦戦32型(熟練),,零式舰战32型（熟练）,Type 0 Fighter Model 32 (Skilled),Carrier-based Fighter Aircraft
+183,,16inch三連装砲 Mk.7+GFCS,,16inch三连装炮Mk.7+GFCS,16inch Triple Gun Mount Mk.7 + GFCS,Large Caliber Main Gun
+184,,Re.2001 OR改,,Re.2001 OR改,Re.2001 OR Kai,Carrier-based Fighter Aircraft
+185,,三式戦 飛燕一型丁,,三式战 飞燕一型丁,Type 3 Fighter Hien Model 1D,Interceptor Fighter
+186,,一式陸攻 三四型,,一式陆攻 三四型,Type 1 Land-based Attack Aircraft Model 34,Land-based Attack Aircraft
+187,,銀河,,银河,Ginga,Land-based Attack Aircraft
+188,,Re.2001 G改,,Re.2001 G改,Re.2001 G Kai,Carrier-based Torpedo Bomber
+189,,Re.2005 改,,Re.2005 改,Re.2005 Kai,Carrier-based Fighter Aircraft
+190,,38.1cm Mk.I連装砲,,38.1cm Mk.I 连装炮,38.1cm Mk.I Twin Gun Mount,Large Caliber Main Gun
+191,,QF 2ポンド8連装ポンポン砲,,QF 2镑8连装砰砰炮,QF 2-pounder Octuple Pom-pom Gun Mount,Anti-Aircraft Gun

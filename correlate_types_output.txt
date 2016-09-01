@@ -1,0 +1,245 @@
+Type ID 1: Small Caliber Main Gun
+ 0: 12cm Single Gun Mount
+ 1: 12.7cm Twin Gun Mount
+ 2: 12.7cm Twin Gun Mount Model B Kai 2
+ 3: 12.7cm Single Gun Mount
+ 4: 120mm Twin Gun Mount
+Type ID 2: High-Angle Main Gun
+ 0: 10cm Twin High-angle Gun Mount
+ 1: 12.7cm Single High-angle Gun Mount
+ 2: 12.7cm Twin High-angle Gun Mount (Late Model)
+Type ID 3: High-Angle Main Gun + Anti-Aircraft Fire Director
+ 0: 10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director
+Type ID 4: Medium Caliber Main Gun
+ 0: 14cm Single Gun Mount
+ 1: 15.5cm Triple Gun Mount
+ 2: 20.3cm Twin Gun Mount
+ 3: 20.3cm (No.3) Twin Gun Mount
+ 4: 15.2cm Twin Gun Mount
+ 5: 20.3cm (No.2) Twin Gun Mount
+ 6: 14cm Twin Gun Mount
+ 7: SKC34 20.3cm Twin Gun Mount
+ 8: 15.2cm Twin Gun Mount Kai
+ 9: 203mm/53 Twin Gun Mount
+Type ID 5: Large Caliber Main Gun
+ 0: 35.6cm Twin Gun Mount
+ 1: 41cm Twin Gun Mount
+ 2: 46cm Triple Gun Mount
+ 3: 38cm Twin Gun Mount
+ 4: Prototype 35.6cm Triple Gun Mount
+ 5: 35.6cm Twin Gun Mount (Dazzle Camouflage)
+ 6: Prototype 41cm Triple Gun Mount
+ 7: 38cm Twin Gun Mount Kai
+ 8: Prototype 46cm Twin Gun Mount
+ 9: 381mm/50 Triple Gun Mount
+ 10: 381mm/50 Triple Gun Mount Kai
+ 11: 16inch Triple Gun Mount Mk.7
+ 12: 16inch Triple Gun Mount Mk.7 + GFCS
+ 13: 38.1cm Mk.I Twin Gun Mount
+Type ID 6: Large Caliber Main Gun (II)
+ 0: Prototype 51cm Twin Gun Mount
+Type ID 7: Secondary Gun
+ 0: 15.2cm Single Gun Mount
+ 1: 15.5cm Triple Secondary Gun Mount
+ 2: 15cm Twin Secondary Gun Mount
+ 3: OTO 152mm Triple Rapid Fire Gun Mount
+Type ID 8: Secondary Anti-Aircraft Gun
+ 0: 12.7cm Twin High-angle Gun Mount
+ 1: 8cm High-angle Gun
+ 2: 10cm Twin High-angle Gun Mount (Carriage)
+ 3: 10.5cm Twin Gun Mount
+Type ID 9: Secondary Anti-Aircraft Gun + Anti-Aircraft Fire Director
+ 0: 12.7cm High-angle Gun + Anti-Aircraft Fire Director
+ 1: 90mm Single High-angle Gun Mount
+ 2: 5inch Twin Gun Mount Mk.28 mod.2
+Type ID 10: Anti-Aircraft Shell
+ 0: Type 3 Shell
+Type ID 11: Armor Piercing Shell
+ 0: Type 91 Armor Piercing Shell
+ 1: Type 1 Armor Piercing Shell
+Type ID 12: Torpedo
+ 0: 61cm Triple Torpedo Mount
+ 1: 61cm Quadruple Torpedo Mount
+ 2: 61cm Quadruple (Oxygen) Torpedo Mount
+ 3: 61cm Quintuple (Oxygen) Torpedo Mount
+ 4: 53cm Bow (Oxygen) Torpedo Mount
+ 5: 61cm Triple (Oxygen) Torpedo Mount
+ 6: 53cm Twin Torpedo Mount
+ 7: Prototype 61cm Sextuple (Oxygen) Torpedo Mount
+Type ID 13: Submarine Torpedo
+ 0: Submarine 53cm Bow Torpedo Mount (8 tubes)
+ 1: Prototype FaT Type 95 Oxygen Torpedo Kai
+Type ID 14: Midget Submarine
+ 0: Kouhyouteki
+Type ID 15: Reconnaissance Seaplane
+ 0: Type 0 Reconnaissance Seaplane
+ 1: Type 0 Observation Seaplane
+ 2: Ar196 Kai
+ 3: Shiun
+ 4: Ro.43 Reconnaissance Seaplane
+ 5: OS2U
+Type ID 16: Reconnaissance Seaplane (Night Recon)
+ 0: Type 98 Reconnaissance Seaplane (Night Recon)
+Type ID 17: Seaplane Bomber
+ 0: Zuiun
+ 1: Prototype Seiran
+ 2: Zuiun (634 Air Group)
+ 3: Zuiun Model 12
+ 4: Zuiun Model 12 (634 Air Group)
+Type ID 18: Carrier-based Fighter Aircraft
+ 0: Type 96 Fighter
+ 1: Type 0 Fighter Model 21
+ 2: Type 0 Fighter Model 52
+ 3: Reppuu
+ 4: Reppuu Kai
+ 5: Shiden Kai 2
+ 6: Shinden Kai
+ 7: Type 0 Fighter Model 21 (Skilled)
+ 8: Zero Fighter Model 52C (601 Air Group)
+ 9: Reppuu (601 Air Group)
+ 10: Type 0 Fighter Model 52 (Skilled)
+ 11: Zero Fighter Model 52C (w/ Iwai Flight)
+ 12: Zero Fighter Model 21 (w/ Iwamoto Flight)
+ 13: Zero Fighter Model 52A (w/ Iwamoto Flight)
+ 14: Type 0 Fighter Model 53 (Iwamoto Squadron)
+ 15: Bf 109T Kai
+ 16: Fw 190T Kai
+ 17: Type 0 Fighter Model 32
+ 18: Type 0 Fighter Model 32 (Skilled)
+ 19: Re.2001 OR Kai
+ 20: Re.2005 Kai
+Type ID 19: Carrier-based Torpedo Bomber
+ 0: Type 97 Torpedo Bomber
+ 1: Tenzan
+ 2: Ryuusei
+ 3: Ryuusei Kai
+ 4: Type 97 Torpedo Bomber (931 Air Group)
+ 5: Tenzan (931 Air Group)
+ 6: Type 97 Torpedo Bomber (Tomonaga Squadron)
+ 7: Tenzan Model 12 (Tomonaga Squadron)
+ 8: Type 97 Torpedo Bomber (Skilled)
+ 9: Tenzan (601 Air Group)
+ 10: Ryuusei (601 Air Group)
+ 11: Type 97 Torpedo Bomber (Murata Squadron)
+ 12: Tenzan Model 12 (Murata Squadron)
+ 13: Re.2001 G Kai
+Type ID 20: Carrier-based Dive Bomber
+ 0: Type 99 Dive Bomber
+ 1: Suisei
+ 2: Suisei Model 12A
+ 3: Type 0 Fighter Model 62 (Fighter-bomber)
+ 4: Ju 87C Kai
+ 5: Type 99 Dive Bomber (Skilled)
+ 6: Type 99 Dive Bomber (Egusa Squadron)
+ 7: Suisei (Egusa Squadron)
+ 8: Suisei (601 Air Group)
+ 9: Prototype Nanzan
+ 10: Zero Fighter Model 62 (Fighter-bomber / Iwai Squadron)
+Type ID 21: Carrier-based Reconnaissance Aircraft
+ 0: Saiun
+ 1: Type 2 Reconnaissance Aircraft
+Type ID 22: Autogyro
+ 0: Ka Type Observation Autogyro
+Type ID 23: Anti-submarine Patrol Aircraft
+ 0: Type 3 Command Liaison Aircraft (ASW)
+Type ID 24: Small Radar
+ 0: Type 13 Air Radar
+ 1: Type 22 Surface Radar
+ 2: Type 33 Surface Radar
+ 3: Type 22 Surface Radar Kai 4
+ 4: Type 13 Air Radar Kai
+Type ID 25: Large Radar
+ 0: Type 21 Air Radar
+ 1: Type 32 Surface Radar
+ 2: Type 14 Air Radar
+ 3: Type 21 Air Radar Kai
+ 4: FuMO25 Radar
+ 5: Type 32 Surface Radar Kai
+Type ID 26: Depth Charge
+ 0: Type 94 Depth Charge Projector
+ 1: Type 3 Depth Charge Projector
+Type ID 27: Sonar
+ 0: Type 93 Passive Sonar
+ 1: Type 3 Active Sonar
+ 2: Type 4 Passive Sonar
+Type ID 28: Large Sonar
+ 0: Type 0 Passive Sonar
+Type ID 29: Anti-Aircraft Gun
+ 0: 7.7mm Machine Gun
+ 1: 12.7mm Single Machine Gun Mount
+ 2: 25mm Twin Autocannon Mount
+ 3: 25mm Triple Autocannon Mount
+ 4: 25mm Single Autocannon Mount
+ 5: 12cm 30-tube Rocket Launcher
+ 6: 2cm Flakvierling 38
+ 7: 3.7cm FlaK M42
+ 8: Bi Type 40mm Twin Autocannon Mount
+ 9: QF 2-pounder Octuple Pom-pom Gun Mount
+Type ID 30: Anti-Aircraft Gun (Concentrated Deployment AACI)
+ 0: 25mm Triple Autocannon Mount (Concentrated Deployment)
+ 1: Bofors 40mm Quadruple Autocannon Mount
+Type ID 31: Anti-Aircraft Fire Director
+ 0: Type 91 Anti-Aircraft Fire Director
+ 1: Type 94 Anti-Aircraft Fire Director
+Type ID 32: Engine Improvement
+ 0: Improved Kanhon Type Turbine
+ 1: Enhanced Kanhon Type Boiler
+ 2: New Model High Temperature High Pressure Boiler
+Type ID 33: Extra Armor (Medium)
+ 0: Anti-torpedo Bulge (Medium)
+Type ID 34: Extra Armor (Large)
+ 0: Anti-torpedo Bulge (Large)
+ 1: Pugliese Underwater Protection Bulkhead
+Type ID 35: Damage Control Personnel
+ 0: Emergency Repair Personnel
+ 1: Emergency Repair Goddess
+Type ID 36: Aviation Personnel
+ 0: Skilled Carrier-based Aircraft Maintenance Personnel
+Type ID 37: Surface Ship Personnel
+ 0: Skilled Lookouts
+Type ID 38: Landing Craft
+ 0: Daihatsu Landing Craft
+ 1: Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force)
+Type ID 39: Searchlight
+ 0: Searchlight
+Type ID 40: Star Shell
+ 0: Star Shell
+Type ID 41: Supply Transport Container
+ 0: Drum Canister (Transport Use)
+Type ID 42: Ship Repair Facility
+ 0: Ship Repair Facility
+Type ID 43: Command Facility
+ 0: Fleet Command Facility
+Type ID 44: Anti-Ground Equipment
+ 0: WG42 (Wurfgerät 42)
+Type ID 45: Large Flying Boat
+ 0: Type 2 Large Flying Boat
+ 1: PBY-5A Catalina
+Type ID 46: Large Searchlight
+ 0: Type 96 150cm Searchlight
+Type ID 47: Large Radar (II)
+ 0: 15m Duplex Rangefinder + Type 21 Radar Kai Ni
+Type ID 48: Combat Ration
+ 0: Combat Ration
+ 1: Canned Mackerel
+Type ID 49: Supplies
+ 0: Underway Replenishment
+Type ID 50: Carrier-based Reconnaissance Aircraft (II)
+ 0: Prototype Keiun (Carrier-based Reconnaissance Model)
+Type ID 51: Seaplane Fighter
+ 0: Ro.44 Seaplane Fighter
+ 1: Type 2 Seaplane Fighter Kai
+Type ID 52: Special Amphibious Tank
+ 0: Special Type 2 Amphibious Tank
+Type ID 53: Land-based Attack Aircraft
+ 0: Type 96 Land-based Attack Aircraft
+ 1: Type 1 Land-based Attack Aircraft
+ 2: Type 1 Land-based Attack Aircraft (Nonaka Squadron)
+ 3: Type 1 Land-based Attack Aircraft Model 22A
+ 4: Type 1 Land-based Attack Aircraft Model 34
+ 5: Ginga
+Type ID 54: Interceptor Fighter
+ 0: Raiden
+ 1: Type 3 Fighter Hien
+ 2: Type 3 Fighter Hien (244th Air Combat Group)
+ 3: Type 3 Fighter Hien Model 1D
