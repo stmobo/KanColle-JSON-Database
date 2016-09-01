@@ -1,6 +1,9 @@
 # KanColle-JSON-Database
 JSON format database for Kantai Collection (KanColle) related development
 
+Now with english translations!
+Item names were lovingly ripped from the [English Kancolle Wikia](http://kancolle.wikia.com)!
+
 ## Load JSON format database using JavaScript
 [NeDB](https://github.com/louischatriot/nedb) is a great JS library for this goal.
 
