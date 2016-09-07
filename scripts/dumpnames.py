@@ -8,7 +8,7 @@ import sys
 #  The CSV file will have the columns 'id', 'romaji', 'kanji', 'kana', and 'chinese'.
 
 with open(sys.argv[1], encoding='utf-8') as input_json, open(sys.argv[2], 'w', newline='', encoding='utf-8') as output_file:
-    output_csv = csv.DictWriter(output_file, fieldnames=['id', 'romaji', 'kanji', 'kana', 'chinese'])
+    output_csv = csv.DictWriter(output_file, fieldnames=['id', 'romaji', 'kanji', 'kana', 'chinese', 'suffix'])
     for line in input_json:
         obj = json.loads(line)
         if 'name' in obj:
@@ -18,7 +18,8 @@ with open(sys.argv[1], encoding='utf-8') as input_json, open(sys.argv[2], 'w', n
                 'romaji':   name_obj.get('ja_romaji', ''),
                 'kanji':    name_obj.get('ja_jp', ''),
                 'kana':     name_obj.get('ja_kana', ''),
-                'chinese':  name_obj.get('zh_cn', '')
+                'chinese':  name_obj.get('zh_cn', ''),
+                'suffix':   name_obj.get('suffix', '')
             })
 
         else:
