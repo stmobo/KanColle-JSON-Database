@@ -27,6 +27,7 @@ with open(os.path.join(script_dir, '..\csv\expeditions.csv'), 'r', encoding='utf
                 'english': row['english']
             },
             'time': int(row['time']),
+            'composition': row['reqComposition'],
             'level': {
                 'flag': int(row['reqFlagLevel']),
                 'combined': int(row['reqCombinedLevel'])
