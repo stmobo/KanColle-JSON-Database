@@ -1,0 +1,41 @@
+id,ja_jp,english,time,reqFlagLevel,reqCombinedLevel,reqDrum,reqDrumCarriers,reqComposition,shipExp,hqExp,fuel,ammo,steel,baux,item,itemCount,gsItem,gsItemCount,fuelConsum,ammoConsum
+1,練習航海,Practice Voyage,15,1,0,0,0,2XX,10,10,0,30,0,0,none,0,none,0,3,0
+2,長距離練習航海,Long-Distance Training Voyage,30,2,0,0,0,4XX,20,15,0,100,30,0,bucket,1,none,0,5,0
+3,警備任務,Security Tasks,20,3,0,0,0,3XX,30,30,30,30,40,0,none,0,none,0,3,2
+4,対潜警戒任務,Anti-Submarine Alert,50,3,0,0,0,"1CL,2DD",30,40,0,60,0,0,bucket,1,smallBox,1,5,0
+5,海上護衛任務,Maritime Security Missions,90,3,0,0,0,"1CL,2DD,1XX",40,40,200,200,20,20,none,0,none,0,5,0
+6,防空射撃演習,Anti-Air Exercises,40,4,0,0,0,4XX,30,50,0,0,0,80,smallBox,1,none,0,3,2
+7,観艦式予行,Ceremonial Dress Rehearsal,60,5,0,0,0,6XX,60,120,0,0,50,30,torch,1,none,0,5,0
+8,観艦式,Naval Review,180,6,0,0,0,6XX,120,140,50,100,50,50,torch,2,devmat,1,5,2
+9,タンカー護衛任務,Tanker Escort Duties,240,3,0,0,0,"1CL,2DD,1XX",60,60,350,0,0,0,smallBox,1,bucket,2,5,0
+10,強行偵察任務,Attack Force Recon Missions,90,3,0,0,0,"2CL,1XX",40,50,0,50,0,30,bucket,1,torch,1,3,0
+11,ボーキサイト輸送任務,Bauxite Transport Missions,300,6,0,0,0,"2DD,2XX",40,40,0,0,0,250,smallBox,1,bucket,1,5,0
+12,資源輸送任務,Resource Transportation Missions,480,4,0,0,0,"2DD,2XX",60,50,50,250,200,50,medBox,1,devmat,1,5,0
+13,鼠輸送作戦,"""Rat Transportation"" Strategy",240,5,0,0,0,"1CL,4DD,1XX",70,60,240,300,0,0,bucket,2,smallBox,1,5,4
+14,包囲陸戦隊撤収作戦,Besieged Troop Evacuation Strategies,360,6,0,0,0,"1CL,3DD,2XX",90,100,0,240,200,0,bucket,1,devmat,1,5,0
+15,囮機動部隊支援作戦,Decoy Task Force Assistance Operations,720,8,0,0,0,"2CV,2DD,2XX",100,160,0,0,300,400,largeBox,1,devmat,1,5,4
+16,艦隊決戦援護作戦,Fleet Battle Support Strategy,900,10,0,0,0,"1CL,2DD,3XX",120,200,500,500,200,200,torch,2,devmat,1,5,4
+17,敵地偵察作戦,Enemy Territory Reconnaissance Operations,45,20,0,0,0,"1CL,3DD,2XX",30,40,70,70,50,0,none,0,none,0,3,4
+18,航空機輸送作戦,Aircraft Transport Strategy,300,15,0,0,0,"3CV,2DD,1XX",60,60,0,0,300,100,bucket,1,none,0,5,2
+19,北号作戦,Northern Offensive Operations,360,20,0,0,0,"2BBV,2DD,2XX",60,70,400,0,50,30,smallBox,1,devmat,1,5,4
+20,潜水艦哨戒任務,Submarine Patrol,120,1,0,0,0,"1SS,1CL",40,50,0,0,150,0,devmat,1,smallBox,1,5,4
+21,北方鼠輸送作戦,"Northern ""Rat Transportation"" Strategy",140,15,30,3,3,"1CL,4DD",45,55,320,270,0,0,smallBox,1,none,0,8,7
+22,艦隊演習,Fleet Exercises,180,30,45,0,0,"1CA,1CL,2DD,2XX",45,400,0,10,0,0,none,0,none,0,8,7
+23,航空戦艦運用演習,Aviation Battleship Exercises,240,50,200,0,0,"2BBV,2DD,2XX",70,420,0,20,0,100,none,0,none,0,8,8
+24,北方航路海上護衛,Guard the North Sea Route!,500,50,200,0,0,"1CL,4DD,1XX",65,80,500,0,0,150,devmat,2,bucket,1,8,6
+25,通商破壊作戦,Trade Route Destruction Strategy,2400,25,0,0,0,"2CA,2DD",80,180,900,0,500,0,none,0,none,0,5,8
+26,敵母港空襲作戦,Enemy Home Port Bombing Campaign,1920,30,0,0,0,"1CV,1CL,2DD",150,200,0,0,0,900,bucket,3,smallBox,2,8,8
+27,潜水艦通商破壊作戦,Submarine Commerce Destruction Strategy,1200,1,0,0,0,2SS,80,60,0,0,800,0,devmat,1,medBox,1,8,8
+28,西方海域封鎖作戦,Western Sea Blockade Operation,1500,30,0,0,0,3SS,100,140,0,0,900,350,devmat,2,smallBox,1,8,8
+29,潜水艦派遣演習,Submarine Dispatch Exercises,1440,50,0,0,0,3SS,100,100,0,0,0,100,devmat,1,none,0,9,4
+30,潜水艦派遣作戦,Submarine Dispatch Operations,2880,55,0,0,0,4SS,100,150,0,0,0,100,devmat,3,none,0,9,7
+31,海外艦との接触,Contacting Foreign Vessels,120,60,200,0,0,4SS,50,50,0,30,0,0,smallBox,1,none,0,5,0
+32,遠洋練習航海,Seafaring Training,1440,5,0,0,0,"1CT,2DD,3XX",300,0,50,50,50,50,largeBox,1,devmat,3,9,3
+33,前衛支援任務,Node Support Expedition,15,0,0,0,0,6XX,0,0,0,0,0,0,none,0,none,0,5,8
+34,艦隊決戦支援任務,Boss Support Expedition,30,0,0,0,0,6XX,0,0,0,0,0,0,none,0,none,0,5,8
+35,ＭＯ作戦,Operation MO,420,40,0,0,0,"2CV,1CA,1DD,2XX",100,100,0,0,240,280,smallBox,2,devmat,1,8,8
+36,水上機基地建設,Water Base Construction,540,30,0,0,0,"2AV,1CL,1DD,2XX",100,100,480,0,200,200,medBox,2,bucket,1,8,8
+37,東京急行,Tokyo Express I,165,50,200,4,3,"1CL,5DD",50,65,0,380,270,0,smallBox,1,none,0,8,8
+38,東京急行(弐),Tokyo Express II,175,65,240,8,4,"5DD,1XX",100,70,420,0,200,0,smallBox,1,none,0,8,8
+39,遠洋潜水艦作戦,Deep-Sea Submarine Warfare,1800,3,180,0,0,"1AS,4SS",130,320,0,0,300,0,bucket,2,medBox,1,9,9
+40,水上機前線輸送,Front-Line Seaplane Delivery,410,25,150,0,0,"1CL,2AV,2DD,1XX",60,70,300,300,0,100,smallBox,3,bucket,1,8,7
